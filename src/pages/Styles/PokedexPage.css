@@ -1,0 +1,101 @@
+.pokemons__container {
+    max-width: 1024px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    gap: 2em;
+}
+
+.poke-greeting {
+    position: absolute;
+    width: 70%;
+    top: 12em;
+    left: 27em;
+    right: 0;
+    color: red;
+}
+
+.poke-intrucctions {
+    position: absolute;
+    width: 900%;
+    top: 20em;
+    left: 27em;
+    right: 0;
+    color: black;
+}
+
+.poke-form {
+    position: absolute;
+    width: 900%;
+    top: 22em;
+    left: 39em;
+    right: 0;
+    color: black;
+}
+
+.poke-tittle {
+    font-size: 50px;
+    position: center;
+    background-color: red;
+    left: 12em;
+}
+
+.pokedex-tittlee {
+    font-size: 40px;
+    position: relative;
+    background-color: red;
+    color: black;
+}
+
+.pokedex-trainer {
+    width: 882px;
+    height: 40px;
+    top: 195px;
+    left: 143px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.pokedex-form {
+    width: 250.02px;
+    height: 30px;
+    top: 210px;
+    left: 140px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.pokedex-button {
+    width: 100.34px;
+    height: 30px;
+    top: 294px;
+    left: 847.79px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.13px;
+    text-align: center;    
+    background-color: red;
+    border-radius: 0.3em;
+}
+
+.poke-article {
+    width: 1116px;
+    height: 1272px;
+    top: 320px;
+    left: 162px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+}
+
+.pokeinfo-img {
+    width: 341px;
+    height: 314px;
+    top: 195px;
+    left: 550px;
+    gap: 0px;
+    opacity: 0px;
+}
